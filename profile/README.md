@@ -24,4 +24,4 @@ We as PCG are proud to share some know-how and experiences with you in the follo
 ### Public Cloud Group / Cloudwürdig - GCS 2 Drive Transfer Tool
 Transfer big files from _Google Cloud Storage_ to _Google Drive_ using _Cloud Functions_ with Byte-Ranges and Resumable Uploads.
 
-[👨‍💻 Go to repository](pcg-public-tools-gcs2drive) | [🕮 Go to blog post](https://cloudwuerdig.com/grosse-dateien-von-google-cloud-storage-zu-google-drive-uebertragen/)
+[👨‍💻 Go to repository](https://github.com/Public-Cloud-Group/pcg-public-tools-gcs2drive) | [🕮 Go to blog post](https://cloudwuerdig.com/grosse-dateien-von-google-cloud-storage-zu-google-drive-uebertragen/)
