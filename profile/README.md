@@ -1,4 +1,4 @@
-![Header Image](https://github.com/Public-Cloud-Group/.github/blob/main/profile/img/logo.jpg?raw=true)
+![Header Image](https://github.com/Public-Cloud-Group/.github/raw/main/profile/img/logo.png)
 # Welcome on the Public Cloud Group GitHub Profile
 The [Public Cloud Group (PCG)](https://publiccloudgroup.com/) supports companies in their digital transformation through the use of public cloud solutions. As an experienced partner of all relevant hyperscalers (**Amazon Web Services AWS**, **Google Cloud** and **Microsoft Azure**), PCG has received the highest certifications from the respective providers and advises its customers independently. 
 
