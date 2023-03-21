@@ -21,7 +21,10 @@ Imprint / Legal note: https://publiccloudgroup.com/en/legal-notice/
 ## Public Repositories
 We as PCG are proud to share some know-how and experiences with you in the following featured repositories.
 
-### Public Cloud Group / Cloudwürdig - GCS 2 Drive Transfer Tool
+### ![GitHub Logo](https://github.com/Public-Cloud-Group/.github/raw/main/profile/img/github-icon.png) Public Cloud Group / Cloudwürdig - GCS 2 Drive Transfer Tool
 Transfer big files from _Google Cloud Storage_ to _Google Drive_ using _Cloud Functions_ with Byte-Ranges and Resumable Uploads.
 
-![GitHub Logo](https://github.com/Public-Cloud-Group/.github/raw/main/profile/img/github-icon.png)[Go to repository](https://github.com/Public-Cloud-Group/pcg-public-tools-gcs2drive) | [Go to blog post](https://cloudwuerdig.com/grosse-dateien-von-google-cloud-storage-zu-google-drive-uebertragen/)
+| Link | Url |
+|----------| ----------|
+| Repository | [https://github.com/Public-Cloud-Group/pcg-public-tools-gcs2drive](https://github.com/Public-Cloud-Group/pcg-public-tools-gcs2drive) |
+| Documentation | [https://cloudwuerdig.com/grosse-dateien-von-google-cloud-storage-zu-google-drive-uebertragen/](https://cloudwuerdig.com/grosse-dateien-von-google-cloud-storage-zu-google-drive-uebertragen/) |
