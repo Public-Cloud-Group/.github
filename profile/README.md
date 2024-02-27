@@ -23,11 +23,11 @@ Imprint / Legal note: [https://pcg.io/legal-notice/](https://pcg.io/legal-notice
 We as PCG are proud to share some know-how and experiences with you in the following featured repositories.
 
 ### ![GitHub Logo](https://github.com/Public-Cloud-Group/.github/raw/main/profile/img/github-icon.png) Public Cloud Group - Monitor expiring Azure App Registration Secrets
-This repository contains the template file to implement the [https://pcg.io/de/insights/logic-apps-guide-azure/](here) available tutorial for monitoring expiring app secrets.
+This repository contains the template file to implement the [here](https://pcg.io/de/insights/logic-apps-guide-azure/) available tutorial for monitoring expiring app secrets.
 
 | Link | Url |
 |----------| ----------|
-| Repository | [./azure-monitor-app-registration](https://github.com/Public-Cloud-Group/azure-monitor-app-registration) |
+| Repository | [https://github.com/Public-Cloud-Group/azure-monitor-app-registration](./azure-monitor-app-registration) |
 | Documentation | [https://pcg.io/de/insights/logic-apps-guide-azure/](https://pcg.io/de/insights/logic-apps-guide-azure/) |
 
 ### ![GitHub Logo](https://github.com/Public-Cloud-Group/.github/raw/main/profile/img/github-icon.png) Public Cloud Group / Cloudwürdig - GCS 2 Drive Transfer Tool
