@@ -27,7 +27,7 @@ This repository contains the template file to implement the [here](https://pcg.i
 
 | Link | Url |
 |----------| ----------|
-| Repository | [https://github.com/Public-Cloud-Group/azure-monitor-app-registration](./azure-monitor-app-registration) |
+| Repository | [https://github.com/Public-Cloud-Group/azure-monitor-app-registration](https://github.com/Public-Cloud-Group/azure-monitor-app-registration) |
 | Documentation | [https://pcg.io/de/insights/logic-apps-guide-azure/](https://pcg.io/de/insights/logic-apps-guide-azure/) |
 
 ### ![GitHub Logo](https://github.com/Public-Cloud-Group/.github/raw/main/profile/img/github-icon.png) Public Cloud Group / Cloudwürdig - GCS 2 Drive Transfer Tool
